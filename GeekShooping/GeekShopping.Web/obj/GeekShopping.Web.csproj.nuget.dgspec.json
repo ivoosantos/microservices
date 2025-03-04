@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
+    "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
   },
   "projects": {
-    "C:\\Microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
+    "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectUniqueName": "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "projectName": "GeekShopping.Web",
-        "projectPath": "C:\\Microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectPath": "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "packagesPath": "C:\\Users\\Ivo Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Microservices\\GeekShooping\\GeekShopping.Web\\obj\\",
+        "outputPath": "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

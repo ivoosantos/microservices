@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6vaAJUZmFY=",
+  "dgSpecHash": "PZ2q0UX/Uck=",
   "success": true,
-  "projectFilePath": "C:\\Microservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+  "projectFilePath": "C:\\Microservices\\microservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivo Santos\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Ivo Santos\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
